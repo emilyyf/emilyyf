@@ -5,3 +5,6 @@ Even though I can code in basically any procedural or OOP language, my main lang
   - C
   - C++
   - JavaScript
+--------
+![](https://github-profile-trophy.vercel.app/?username=emilyyf)
+![](https://github-readme-streak-stats.herokuapp.com/?user=emilyyf)
