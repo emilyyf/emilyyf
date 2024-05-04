@@ -47,6 +47,6 @@ Even though I can code in basically any procedural or OOP language, my main lang
 	<summary>Some useless stats here</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=emilyyf&rank=-C,-B,-?&theme=dracula" width="1000" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyyf&layout=donut&theme=dracula" width="502" />
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=emilyyf&theme=dracula&border_radius=4" width="507" />
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=emilyyf&theme=dracula&border_radius=4&mode=weekly" width="507" />
 </details>
 
